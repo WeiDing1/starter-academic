@@ -19,15 +19,15 @@ feature:
 # - description: 50%
 #  icon: r-project
 #  icon_pack: fab
-  name: Programing languanges: C++, matlab, python
+  name: C++, matlab, python
 # - description: 90%
 #  icon: chart-line
 #  icon_pack: fas
-  name: Softwares: AutoCAD, Solidworks, COMSOL
+  name: AutoCAD, Solidworks, COMSOL
 # - description: 60%
 #  icon: camera-retro
 #  icon_pack: fas
-  name: Operating systems: Windows, Linux
+  name: Windows, Linux
 
 # Uncomment to use emoji icons.
 #- icon: ":smile:"
