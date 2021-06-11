@@ -5,21 +5,21 @@ bio: My research interests include nonlocal continuum mechanics, fractional
   calculus, scientific computation, and multi-scale simulation..
 interests: []
 social:
-  - icon: envelope
-    icon_pack: fas
-    link: /#contact
-  - icon: twitter
-    icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
-  - icon: graduation-cap
-    icon_pack: fas
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
-  - icon: github
-    icon_pack: fab
-    link: https://github.com/gcushen
+#  - icon: envelope
+#    icon_pack: fas
+#    link: /#contact
+#  - icon: twitter
+#    icon_pack: fab
+#    link: https://twitter.com/GeorgeCushen
+#  - icon: graduation-cap
+#    icon_pack: fas
+#    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+#  - icon: github
+#    icon_pack: fab
+#    link: https://github.com/gcushen
   - icon: linkedin
     icon_pack: fab
-    link: https://www.linkedin.com/
+    link: www.linkedin.com/in/wei-ding1
 organizations:
   - name: School of Mechanical Engineering, Purdue University
     url: https://engineering.purdue.edu/ME
@@ -27,11 +27,11 @@ education:
   courses:
     - course: PhD in Mechanical Engineering
       institution: Purdue University
-      year: ""
+      year: "2018-now"
     - course: BSc in Mechanical Manufacturing and Automation
       institution: Huazhong University of Science and Technology
-      year: ""
-email: ""
+      year: "2014-2018"
+email: "ding242@purdue.edu"
 superuser: true
 highlight_name: false
 ---
