@@ -8,7 +8,10 @@ bio: I am currently a PhD student at the School of Mechanical Engineering,
   research is about solid mechanics that includes theoretical and numerical
   modeling of multi-scale nonlocal elasticity via fractional calculus.
 interests:
-  - Nonlocal
+  - Nonlocal continuum mechanics
+  - Fractional calculus
+  - Scientific computation
+  - multi-scale modeling
 social:
   - icon: linkedin
     icon_pack: fab
@@ -31,6 +34,6 @@ email: ding242@purdue.edu
 superuser: true
 highlight_name: false
 ---
-
+I am currently a PhD student at the School of Mechanical Engineering, Purdue University, USA. Before I came to Purdue, I finished my undergraduate study and received bachalor degree of Mechanical Manufacturing and Automation in Huazhong University of Science and Technology (HUST), Wuhan, China. My research is about solid mechanics that includes theoretical and numerical modeling of multi-scale nonlocal elasticity via fractional calculus.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
