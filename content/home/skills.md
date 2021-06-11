@@ -16,15 +16,15 @@ subtitle:
 # - Add/remove as many `feature` blocks below as you like.
 # - For available icons, see: https://wowchemy.com/docs/page-builder/#icons
 feature:
-# - description: 50%
+ - description: Programming langurages
 #  icon: r-project
 #  icon_pack: fab
   name: C++, matlab, python
-# - description: 90%
+ - description: Softwares
 #  icon: chart-line
 #  icon_pack: fas
   name: AutoCAD, Solidworks, COMSOL
-# - description: 60%
+ - description: Operating systems
 #  icon: camera-retro
 #  icon_pack: fas
   name: Windows, Linux
