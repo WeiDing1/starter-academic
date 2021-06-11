@@ -20,6 +20,9 @@ social:
   - icon: linkedin
     icon_pack: fab
     link: www.linkedin.com/in/wei-ding1
+  - icon: google scholar
+  - icon_pack: fab
+  - link: https://scholar.google.com/citations?user=aLmL0CMAAAAJ&hl=en
 organizations:
   - name: School of Mechanical Engineering, Purdue University
     url: https://engineering.purdue.edu/ME
