@@ -8,6 +8,7 @@ authors:
   - Sai Sidhardh
   - Fabio Semperlotti
 doi: https://doi.org/10.3390/e23010110
+publication: MDPI
 draft: false
 featured: false
 image:
