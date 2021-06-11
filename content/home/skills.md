@@ -19,7 +19,7 @@ feature:
 - description: Programming langurages
 #  icon: r-project
 #  icon_pack: fab
-  name: C++, bash, makefile, matlab, python
+  name: C/C++, bash, makefile, matlab, python
 - description: Softwares
 #  icon: chart-line
 #  icon_pack: fas
