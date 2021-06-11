@@ -1,45 +1,15 @@
 ---
-# An instance of the Featurette widget.
-# Documentation: https://wowchemy.com/docs/page-builder/
 widget: featurette
-
-# This file represents a page section.
+widget_id: skills
 headless: true
-
-# Order that this section appears on the page.
 weight: 30
-
 title: Skills
-subtitle:
-
-# Showcase personal skills or business features.
-# - Add/remove as many `feature` blocks below as you like.
-# - For available icons, see: https://wowchemy.com/docs/page-builder/#icons
+subtitle: null
 feature:
-- description: Programming langurages
-#  icon: r-project
-#  icon_pack: fab
-  name: C/C++, bash, makefile, matlab, python
-- description: Engineering softwares
-#  icon: chart-line
-#  icon_pack: fas
-  name: AutoCAD, Solidworks, Inventor, COMSOL
-#- description: Operating systems
-#  icon: camera-retro
-#  icon_pack: fas
-#  name: Windows, Linux
-
-# Uncomment to use emoji icons.
-#- icon: ":smile:"
-#  icon_pack: "emoji"
-#  name: "Emojiness"
-#  description: "100%"  
-
-# Uncomment to use custom SVG icons.
-# Place custom SVG icon in `assets/images/icon-pack/`, creating folders if necessary.
-# Reference the SVG icon name (without `.svg` extension) in the `icon` field.
-#- icon: "your-custom-icon-name"
-#  icon_pack: "custom"
-#  name: "Surfing"
-#  description: "90%"
+  - description: Programming langurages
+    name: C/C++, bash, makefile, matlab, python
+  - description: Engineering softwares
+    name: AutoCAD, Solidworks, Inventor, COMSOL
+design:
+  columns: "2"
 ---
