@@ -20,14 +20,14 @@ feature:
 #  icon: r-project
 #  icon_pack: fab
   name: C/C++, bash, makefile, matlab, python
-- description: Softwares
+- description: Engineering softwares
 #  icon: chart-line
 #  icon_pack: fas
   name: AutoCAD, Solidworks, Inventor, COMSOL
-- description: Operating systems
+#- description: Operating systems
 #  icon: camera-retro
 #  icon_pack: fas
-  name: Windows, Linux
+#  name: Windows, Linux
 
 # Uncomment to use emoji icons.
 #- icon: ":smile:"
