@@ -19,11 +19,11 @@ feature:
 - description: Programming langurages
 #  icon: r-project
 #  icon_pack: fab
-  name: C++, matlab, python
+  name: C++, bash, makefile, matlab, python
 - description: Softwares
 #  icon: chart-line
 #  icon_pack: fas
-  name: AutoCAD, Solidworks, COMSOL
+  name: AutoCAD, Solidworks, Inventor, COMSOL
 - description: Operating systems
 #  icon: camera-retro
 #  icon_pack: fas
