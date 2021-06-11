@@ -20,13 +20,13 @@ twitter: ''
 
 # Contact (edit or remove options as required)
 
-email: test@example.org
-phone: 888 888 88 88
+email: ding242@purdue.edu
+phone: +1 765-775-3279
 address:
   street: 450 Serra Mall
-  city: Stanford
-  region: CA
-  postcode: '94305'
+  city: West Lafayette
+  region: IN
+  postcode: '47906'
   country: United States
   country_code: US
 coordinates:
