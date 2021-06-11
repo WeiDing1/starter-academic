@@ -10,6 +10,8 @@ feature:
     name: C/C++, bash, makefile, matlab, python
   - description: Engineering softwares
     name: AutoCAD, Solidworks, Inventor, COMSOL
+  - description: Others
+    name: Windows, Linux, raspberry pi, arduino
 design:
-  columns: "2"
+  columns: "3"
 ---
