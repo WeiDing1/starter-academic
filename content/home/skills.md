@@ -10,8 +10,6 @@ feature:
     name: C/C++, matlab, python
   - description: Engineering softwares
     name: AutoCAD, Solidworks, COMSOL
-  - description: Others
-    name: Windows, Linux,
 design:
   columns: "2"
 ---
