@@ -7,11 +7,11 @@ title: Skills
 subtitle: null
 feature:
   - description: Programming langurages
-    name: C/C++, bash, makefile, matlab, python
+    name: C/C++, matlab, python
   - description: Engineering softwares
-    name: AutoCAD, Solidworks, Inventor, COMSOL
+    name: AutoCAD, Solidworks, COMSOL
   - description: Others
-    name: Windows, Linux, raspberry pi, arduino
+    name: Windows, Linux,
 design:
-  columns: "3"
+  columns: "2"
 ---
