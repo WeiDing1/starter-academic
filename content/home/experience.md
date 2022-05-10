@@ -22,8 +22,8 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - title: Exchange student
-    company: University of Manchester
+  - title: 'Exchange student'
+    company: 'University of Manchester'
     company_url: ''
     company_logo: org-gc
     location: 'Manchester, UK'
@@ -36,8 +36,8 @@ experience:
         * Modelling
         * Deploying
         
-  - title: Undergraduate research assistant
-    company: University of Alberta
+  - title: 'Undergraduate research assistant'
+    company: 'University of Alberta'
     company_url: ''
     company_logo: org-x
     location: 'Edmonton, Canada'
