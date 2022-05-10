@@ -26,7 +26,7 @@ experience:
     college: University of Manchester
     company_url: ''
     company_logo: org-gc
-    location: Manchester, UK
+    location: Manchester UK
     date_start: '2016-6'
     date_end: '2016-7'
     description: |2-
@@ -40,7 +40,7 @@ experience:
     college: University of Alberta
     company_url: ''
     company_logo: org-x
-    location: Edmonton, Canada
+    location: Edmonton Canada
     date_start: '2017-9'
     date_end: '2017-12'
     description: Taught electronic engineering and researched semiconductor physics.
