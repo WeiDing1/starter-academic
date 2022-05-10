@@ -7,9 +7,11 @@ title: Skills
 subtitle: null
 feature:
   - description: Programming langurages
-    name: C/C++, matlab, python
+    name: C/C++, Matlab, python
   - description: Engineering softwares
     name: AutoCAD, Solidworks, COMSOL
+  - description: Others
+  - names: LAMMPS, openMPI
 design:
-  columns: "2"
+  columns: "3"
 ---
