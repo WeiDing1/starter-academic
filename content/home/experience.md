@@ -29,7 +29,7 @@ experience:
     location: 'Manchester, UK'
     date_start: '2016-06'
     date_end: '2016-07'
-    description: |2-
+    description: >-
         Responsibilities include:
         
         * Analysing
@@ -43,7 +43,7 @@ experience:
     location: 'Edmonton, Canada'
     date_start: '2017-09'
     date_end: '2017-12'
-    description: Taught electronic engineering and researched semiconductor physics.
+    description: 'Taught electronic engineering and researched semiconductor physics.'
 
 design:
   columns: '3'
