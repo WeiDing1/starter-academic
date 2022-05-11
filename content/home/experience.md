@@ -27,8 +27,8 @@ experience:
     company_url: ''
     company_logo: org-gc
     location: 'Manchester, UK'
-    date_start: '2016-06'
-    date_end: '2016-07'
+    date_start: '2016-06-01'
+    date_end: '2016-07-01'
     description: >-
         Responsibilities include:
         
@@ -41,8 +41,8 @@ experience:
     company_url: ''
     company_logo: org-x
     location: 'Edmonton, Canada'
-    date_start: '2017-09'
-    date_end: '2017-12'
+    date_start: '2017-09-01'
+    date_end: '2017-12-01'
     description: 'Taught electronic engineering and researched semiconductor physics.'
 
 design:
