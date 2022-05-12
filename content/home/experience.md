@@ -55,7 +55,7 @@ experience:
     company_logo: org-x
     location: 'West Lafayette, IN, the United States'
     date_start: '2018-08-01'
-    date_end: ''
+    date_end:
     description: 'Nonlocal elasticity modeling using fractional calculus.'
     
 design:
