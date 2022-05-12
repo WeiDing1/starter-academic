@@ -10,8 +10,8 @@ feature:
     name: C/C++, Matlab, python
   - description: Engineering softwares
     name: AutoCAD, Solidworks, COMSOL
-  - description: Numerical methods
-  - name: FDM, FEM
+  - description: Others
+    name: Numerical methods, Scientific computing
 design:
   columns: "3"
 ---
