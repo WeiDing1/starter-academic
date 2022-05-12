@@ -19,6 +19,9 @@ social:
   - icon: google-scholar
     icon_pack: ai
     link: https://scholar.google.com/citations?user=aLmL0CMAAAAJ&hl=en
+  - icon: researchgate
+    icon_pack: ai
+    link: https://www.researchgate.net/profile/Wei-Ding-44
 organizations:
   - name: School of Mechanical Engineering, Purdue University
     url: https://engineering.purdue.edu/ME
