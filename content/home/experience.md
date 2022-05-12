@@ -45,6 +45,15 @@ experience:
     date_end: '2017-12-01'
     description: 'Taught electronic engineering and researched semiconductor physics.'
 
+  - title: 'Graduate research assistant'
+    company: 'Purdue University'
+    company_url: ''
+    company_logo: org-x
+    location: 'West Lafayette, IN, the United States'
+    date_start: '2018-08-01'
+    date_end: ''
+    description: 'Taught electronic engineering and researched semiconductor physics.'
+    
 design:
   columns: '3'
 ---
