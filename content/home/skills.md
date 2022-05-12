@@ -11,7 +11,7 @@ feature:
   - description: Engineering softwares
     name: AutoCAD, Solidworks, COMSOL
   - description: Others
-  - names: LAMMPS, openMPI
+  - name: Numerical methods, Scientific Computing, Finite element
 design:
   columns: "3"
 ---
