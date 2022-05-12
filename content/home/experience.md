@@ -46,7 +46,7 @@ experience:
     company_logo: org-x
     location: 'Wuhan, China'
     date_start: '2017-01-01'
-    date_end: '2018-6-01'
+    date_end: '2018-06-01'
     description: 'Metal cutting theory.'
     
   - title: 'Graduate research assistant'
@@ -55,7 +55,7 @@ experience:
     company_logo: org-x
     location: 'West Lafayette, IN, the United States'
     date_start: '2018-08-01'
-    date_end:
+    date_end: ''
     description: 'Nonlocal elasticity modeling using fractional calculus.'
     
 design:
