@@ -29,12 +29,7 @@ experience:
     location: 'Manchester, UK'
     date_start: '2016-06-01'
     date_end: '2016-07-01'
-    description: >-
-        Responsibilities include:
-        
-        * Analysing
-        * Modelling
-        * Deploying
+    description: 'Excellent student exchange plan.'
         
   - title: 'Undergraduate research assistant'
     company: 'University of Alberta'
@@ -43,8 +38,17 @@ experience:
     location: 'Edmonton, Canada'
     date_start: '2017-09-01'
     date_end: '2017-12-01'
-    description: 'Taught electronic engineering and researched semiconductor physics.'
-
+    description: 'Development of openFCST.'
+    
+  - title: 'Undergraduate research assistant'
+    company: 'Huazhong University of Science and Technology'
+    company_url: ''
+    company_logo: org-x
+    location: 'Wuhan, China'
+    date_start: '2017-01-01'
+    date_end: '2018-6-01'
+    description: 'Metal cutting theory.'
+    
   - title: 'Graduate research assistant'
     company: 'Purdue University'
     company_url: ''
@@ -52,8 +56,8 @@ experience:
     location: 'West Lafayette, IN, the United States'
     date_start: '2018-08-01'
     date_end: ''
-    description: 'Taught electronic engineering and researched semiconductor physics.'
+    description: 'Nonlocal elasticity modeling using fractional calculus.'
     
 design:
-  columns: '3'
+  columns: '4'
 ---
