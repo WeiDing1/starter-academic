@@ -11,7 +11,7 @@ feature:
   - description: Engineering softwares
     name: AutoCAD, Solidworks, COMSOL
   - description: Others
-  - name: Numerical methods, Scientific Computing
+  - name: Scientific Computing, FEM, FDM
 design:
   columns: "3"
 ---
