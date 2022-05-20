@@ -1,14 +1,14 @@
 ---
-title: "Multiscale Nonlocal Elasticity: A Distributed Order Fractional Formulation"
+title: "On the fractional homogenization of one-dimensional elastic metamaterials with viscoelastic foundation"
 publication_types:
   - "3"
 authors:
   - Wei Ding
+  - John Hollkamp
   - Sansit Patnaik
-  - Sai Sidhardh
   - Fabio Semperlotti
-doi: https://arxiv.org/abs/2201.01219
-publication: arXiv
+doi: https://doi.org/10.1007/s00419-022-02170-w
+publication: Archive of Applied Mechanics
 draft: false
 featured: false
 image:
