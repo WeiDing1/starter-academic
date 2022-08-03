@@ -10,8 +10,9 @@ bio: I am currently a PhD student at the School of Mechanical Engineering,
 interests:
   - Nonlocal continuum mechanics
   - Fractional calculus
-  - Scientific computation
-  - multi-scale modeling
+  - Numerical methods
+  - Multi-scale modeling
+  - Metamaterial
 social:
   - icon: linkedin
     icon_pack: fab
