@@ -1,7 +1,7 @@
 ---
 title: "On the fractional homogenization of one-dimensional elastic metamaterials with viscoelastic foundation"
 publication_types:
-  - "3"
+  - "2"
 authors:
   - Wei Ding
   - John Hollkamp
