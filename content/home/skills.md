@@ -2,7 +2,7 @@
 widget: featurette
 widget_id: skills
 headless: true
-weight: 30
+weight: 60
 title: Skills
 subtitle: null
 feature:
