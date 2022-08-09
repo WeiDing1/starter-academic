@@ -29,7 +29,7 @@ experience:
     location: 'Manchester, UK'
     date_start: '2016-06-01'
     date_end: '2016-07-01'
-    description: 'Excellent student exchange plan.'
+    description: 'Excellent student exchange program supported by HUST.'
         
   - title: 'Undergraduate research assistant'
     company: 'University of Alberta'
@@ -38,7 +38,7 @@ experience:
     location: 'Edmonton, Canada'
     date_start: '2017-09-01'
     date_end: '2017-12-01'
-    description: 'Development of openFCST.'
+    description: 'Development of openFCST, an open-source fuel cell simulation toolbox leaded by professor Marc Secanell in University of Alberta.'
     
   - title: 'Undergraduate research assistant'
     company: 'Huazhong University of Science and Technology'
@@ -47,7 +47,7 @@ experience:
     location: 'Wuhan, China'
     date_start: '2017-01-01'
     date_end: '2018-06-01'
-    description: 'Metal cutting theory.'
+    description: 'Study of catastrophy effects in metal cutting process supervised by professor Liangshan Xiong in HUST.'
     
   - title: 'Graduate research assistant'
     company: 'Purdue University'
@@ -56,7 +56,7 @@ experience:
     location: 'West Lafayette, IN, the United States'
     date_start: '2018-08-01'
     date_end: ''
-    description: 'Nonlocal elasticity modeling using fractional calculus.'
+    description: 'Nonlocal elasticity modeling using fractional calculus supervised by professor Fabio Semperlotti in Purdue University'
     
 design:
   columns: '4'
