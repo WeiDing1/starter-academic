@@ -2,7 +2,7 @@
 title: Collection Applied Mathmatics in Mechanical Engineering
 summary: A daily project that collects funny mathematics tricks I have met in my research
 tags:
-- Mathematics
+- Academics
 date: "2022-05-19T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
