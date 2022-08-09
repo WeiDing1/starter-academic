@@ -28,9 +28,9 @@ content:
   - name: All
     tag: '*'
   - name: Academics
-    tag: Deep Learning
+    tag: Academics
   - name: Life
-    tag: Demo
+    tag: Life
 
 design:
   # Choose how many columns the section has. Valid values: '1' or '2'.
