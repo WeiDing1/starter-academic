@@ -8,7 +8,7 @@ authors:
   - Wei Ding
   - Fabio Semperlotti
 doi: https://doi.org/10.1098/rspa.2022.0770
-publication: Proceedings of the Royal Society A: Mathematical, Physical and Engineering Sciences
+publication: "Proceedings of the Royal Society A: Mathematical, Physical and Engineering Sciences"
 draft: false
 featured: false
 image:
