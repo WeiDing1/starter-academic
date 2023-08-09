@@ -1,5 +1,5 @@
 ---
-title: Conference attendance
+title: Conferences
 cms_exclude: true
 
 # View.
