@@ -7,7 +7,7 @@ authors:
   - Mehdi Jokar
   - Wei Ding
   - Fabio Semperlotti
-doi:https://doi.org/10.1038/s41524-022-00840-5
+doi: https://doi.org/10.1038/s41524-022-00840-5
 publication: "npj Computational Materials"
 draft: false
 featured: false
