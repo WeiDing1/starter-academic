@@ -112,7 +112,6 @@ avatar:
   shape: circle
 
 conference:
-  font_size: L
   
 publications:
   date_format: January 2006
