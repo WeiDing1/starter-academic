@@ -3,7 +3,7 @@ title: Fractional calculus, the mathematical extension of conventional integer-o
 #subtitle: 
 
 # Summary for listings and search engines
-summary: test summary
+summary: 
 
 # Link this post with a project
 projects: [math]
@@ -41,14 +41,13 @@ tags:
 ---
 
 ## Overview
-
-
-## Inspiration
+Fractional calculus extends classical integer-order calculus by considering the integral/derivative order to be fractional values. 
 
 ## Features
 
-## Themes
+## Suggested references
 
+## Themes
 
 ## License
 
