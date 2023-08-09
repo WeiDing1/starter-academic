@@ -1,12 +1,12 @@
 ---
 title: Wei Ding
 role: Graduate Research Assistant
-bio: I am currently a PhD student at the School of Mechanical Engineering,
+bio: I am currently a PhD candidate at the School of Mechanical Engineering,
   Purdue University, USA. Before I came to Purdue, I finished my undergraduate
   study and received bachalor degree of Mechanical Manufacturing and Automation
   in Huazhong University of Science and Technology (HUST), Wuhan, China. My
   research is about solid mechanics that includes theoretical and numerical
-  modeling of multi-scale nonlocal elasticity via fractional calculus.
+  modeling of multi-scale nonlocal elasticity via fractional calculus. I am planning to graduate in the spring of 2024.
 interests:
   - Nonlocal continuum mechanics
   - Fractional calculus
