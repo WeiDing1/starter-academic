@@ -12,6 +12,6 @@ title: "Eshelby Tensor in Integral Nonlocal Elasticity: Theoretical Formulation 
 # image:
 #  filename: featured
 #  focal_point: Smart
-  preview_only: true
+#  preview_only: true
 # date: 2022-05-27T02:12:47.171Z
 ---
