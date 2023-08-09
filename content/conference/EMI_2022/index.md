@@ -1,6 +1,6 @@
 ---
 # title: "Eshelby Tensor in Integral Nonlocal Elasticity: Theoretical Formulation and Numerical Validation, EMI 2022, Baltimore, MD"
-text: Eshelby Tensor in Integral Nonlocal Elasticity: Theoretical Formulation and Numerical Validation, EMI 2022, Baltimore, MD
+text: "Eshelby Tensor in Integral Nonlocal Elasticity: Theoretical Formulation and Numerical Validation, EMI 2022, Baltimore, MD"
 # publication_types:
 #  - "2"
 # authors:
